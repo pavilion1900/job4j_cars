@@ -7,5 +7,6 @@
 
     <include file="changeset/001_ddl_create_auto_user_table.sql" relativeToChangelogFile="true"/>
     <include file="changeset/002_ddl_create_auto_post_table.sql" relativeToChangelogFile="true"/>
+    <include file="changeset/update_004.sql" relativeToChangelogFile="true"/>
 
 </databaseChangeLog>
